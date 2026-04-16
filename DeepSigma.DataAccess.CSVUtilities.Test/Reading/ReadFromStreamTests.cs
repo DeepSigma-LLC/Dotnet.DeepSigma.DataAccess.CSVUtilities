@@ -1,8 +1,8 @@
-using DeepSigma.DataAccess.CSVUtilities.Reading;
-using DeepSigma.DataAccess.CSVUtilities.Test.Fixtures;
+using DeepSigma.DataAccess.CsvUtilities.Reading;
+using DeepSigma.DataAccess.CsvUtilities.Test.Fixtures;
 using System.Text;
 
-namespace DeepSigma.DataAccess.CSVUtilities.Test.Reading;
+namespace DeepSigma.DataAccess.CsvUtilities.Test.Reading;
 
 public sealed class ReadFromStreamTests
 {

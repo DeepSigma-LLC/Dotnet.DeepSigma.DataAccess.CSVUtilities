@@ -1,9 +1,9 @@
-using DeepSigma.DataAccess.CSVUtilities.Reading;
-using DeepSigma.DataAccess.CSVUtilities.Test.Fixtures;
-using DeepSigma.DataAccess.CSVUtilities.Writing;
+using DeepSigma.DataAccess.CsvUtilities.Reading;
+using DeepSigma.DataAccess.CsvUtilities.Test.Fixtures;
+using DeepSigma.DataAccess.CsvUtilities.Writing;
 using System.Text;
 
-namespace DeepSigma.DataAccess.CSVUtilities.Test.Writing;
+namespace DeepSigma.DataAccess.CsvUtilities.Test.Writing;
 
 public sealed class WriteTests : IDisposable
 {

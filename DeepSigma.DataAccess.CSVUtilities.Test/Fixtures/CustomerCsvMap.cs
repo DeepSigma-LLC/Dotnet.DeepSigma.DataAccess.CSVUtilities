@@ -1,6 +1,6 @@
 using CsvHelper.Configuration;
 
-namespace DeepSigma.DataAccess.CSVUtilities.Test.Fixtures;
+namespace DeepSigma.DataAccess.CsvUtilities.Test.Fixtures;
 
 /// <summary>Explicit header-name mapping for <see cref="CustomerCsvRow"/>.</summary>
 public sealed class CustomerCsvMap : ClassMap<CustomerCsvRow>

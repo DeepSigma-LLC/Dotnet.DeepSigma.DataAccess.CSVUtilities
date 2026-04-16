@@ -1,10 +1,10 @@
 using CsvHelper;
 using CsvHelper.Configuration;
-using DeepSigma.DataAccess.CSVUtilities.Configuration;
+using DeepSigma.DataAccess.CsvUtilities.Configuration;
 using System.Globalization;
 using System.Text;
 
-namespace DeepSigma.DataAccess.CSVUtilities.Writing;
+namespace DeepSigma.DataAccess.CsvUtilities.Writing;
 
 /// <summary>
 /// Static helper for writing CSV data to files, streams, strings, and <see cref="TextWriter"/> instances.

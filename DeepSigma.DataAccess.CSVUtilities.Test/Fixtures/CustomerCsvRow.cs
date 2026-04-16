@@ -1,4 +1,4 @@
-namespace DeepSigma.DataAccess.CSVUtilities.Test.Fixtures;
+namespace DeepSigma.DataAccess.CsvUtilities.Test.Fixtures;
 
 /// <summary>Test model representing a customer record.</summary>
 public sealed class CustomerCsvRow

@@ -1,4 +1,4 @@
-namespace DeepSigma.DataAccess.CSVUtilities.Results;
+namespace DeepSigma.DataAccess.CsvUtilities.Results;
 
 /// <summary>
 /// Represents a single row-level parse failure captured during a safe import operation.

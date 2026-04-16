@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DeepSigma.DataAccess.CSVUtilities\DeepSigma.DataAccess.CSVUtilities.csproj" />
+    <ProjectReference Include="..\DeepSigma.DataAccess.CsvUtilities\DeepSigma.DataAccess.CsvUtilities.csproj" />
   </ItemGroup>
 
   <!-- Copy test CSV files to output directory -->

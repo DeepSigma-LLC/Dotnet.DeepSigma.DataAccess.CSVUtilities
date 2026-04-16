@@ -847,4 +847,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-*Built on top of [CsvHelper](https://github.com/JoshClose/CsvHelper) by Josh Close — MIT licensed.*
+*Built on top of [CsvHelper](https://github.com/JoshClose/CsvHelper) by Josh Close

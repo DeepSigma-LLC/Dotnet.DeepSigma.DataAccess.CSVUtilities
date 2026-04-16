@@ -1,7 +1,7 @@
 using CsvHelper.Configuration;
 using System.Globalization;
 
-namespace DeepSigma.DataAccess.CSVUtilities.Configuration;
+namespace DeepSigma.DataAccess.CsvUtilities.Configuration;
 
 /// <summary>
 /// Factory for creating pre-configured <see cref="CsvConfiguration"/> instances with sensible defaults.

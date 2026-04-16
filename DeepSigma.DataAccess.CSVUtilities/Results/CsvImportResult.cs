@@ -1,4 +1,4 @@
-namespace DeepSigma.DataAccess.CSVUtilities.Results;
+namespace DeepSigma.DataAccess.CsvUtilities.Results;
 
 /// <summary>
 /// The result of a safe CSV import that collects both successfully parsed records

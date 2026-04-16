@@ -1,10 +1,10 @@
 using CsvHelper.Configuration;
-using DeepSigma.DataAccess.CSVUtilities.Configuration;
-using DeepSigma.DataAccess.CSVUtilities.Reading;
-using DeepSigma.DataAccess.CSVUtilities.Test.Fixtures;
+using DeepSigma.DataAccess.CsvUtilities.Configuration;
+using DeepSigma.DataAccess.CsvUtilities.Reading;
+using DeepSigma.DataAccess.CsvUtilities.Test.Fixtures;
 using System.Globalization;
 
-namespace DeepSigma.DataAccess.CSVUtilities.Test.Reading;
+namespace DeepSigma.DataAccess.CsvUtilities.Test.Reading;
 
 public sealed class CsvDefaultsTests
 {

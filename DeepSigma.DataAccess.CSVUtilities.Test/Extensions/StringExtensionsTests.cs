@@ -1,7 +1,7 @@
-using DeepSigma.DataAccess.CSVUtilities.Extensions;
-using DeepSigma.DataAccess.CSVUtilities.Test.Fixtures;
+using DeepSigma.DataAccess.CsvUtilities.Extensions;
+using DeepSigma.DataAccess.CsvUtilities.Test.Fixtures;
 
-namespace DeepSigma.DataAccess.CSVUtilities.Test.Extensions;
+namespace DeepSigma.DataAccess.CsvUtilities.Test.Extensions;
 
 public sealed class StringExtensionsTests
 {

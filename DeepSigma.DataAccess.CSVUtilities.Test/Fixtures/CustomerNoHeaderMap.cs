@@ -1,6 +1,6 @@
 using CsvHelper.Configuration;
 
-namespace DeepSigma.DataAccess.CSVUtilities.Test.Fixtures;
+namespace DeepSigma.DataAccess.CsvUtilities.Test.Fixtures;
 
 /// <summary>Index-based mapping for headerless <see cref="CustomerCsvRow"/> files.</summary>
 public sealed class CustomerNoHeaderMap : ClassMap<CustomerCsvRow>

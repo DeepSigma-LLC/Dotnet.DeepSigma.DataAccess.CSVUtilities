@@ -1,10 +1,10 @@
 using CsvHelper.Configuration;
-using DeepSigma.DataAccess.CSVUtilities.Configuration;
-using DeepSigma.DataAccess.CSVUtilities.Reading;
-using DeepSigma.DataAccess.CSVUtilities.Writing;
+using DeepSigma.DataAccess.CsvUtilities.Configuration;
+using DeepSigma.DataAccess.CsvUtilities.Reading;
+using DeepSigma.DataAccess.CsvUtilities.Writing;
 using System.Globalization;
 
-namespace DeepSigma.DataAccess.CSVUtilities.Extensions;
+namespace DeepSigma.DataAccess.CsvUtilities.Extensions;
 
 /// <summary>
 /// Convenience extension methods for reading CSV from strings and serializing objects back to CSV.

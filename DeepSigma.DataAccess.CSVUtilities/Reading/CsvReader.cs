@@ -1,11 +1,11 @@
 using CsvHelper;
 using CsvHelper.Configuration;
-using DeepSigma.DataAccess.CSVUtilities.Configuration;
-using DeepSigma.DataAccess.CSVUtilities.Results;
+using DeepSigma.DataAccess.CsvUtilities.Configuration;
+using DeepSigma.DataAccess.CsvUtilities.Results;
 using System.Globalization;
 using System.Runtime.CompilerServices;
 
-namespace DeepSigma.DataAccess.CSVUtilities.Reading;
+namespace DeepSigma.DataAccess.CsvUtilities.Reading;
 
 /// <summary>
 /// Static helper for reading CSV data from files, streams, strings, and <see cref="TextReader"/> instances.

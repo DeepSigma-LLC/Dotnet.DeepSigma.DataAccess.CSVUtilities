@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../DeepSigma.DataAccess.CSVUtilities.Test/DeepSigma.DataAccess.CSVUtilities.Test.csproj" />
+  <Project Path="DeepSigma.DataAccess.CSVUtilities.csproj" />
+</Solution>

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -f CSVTool.cs CsvLoader.cs CsvImportError.cs CsvImportResult.cs CustomHeaderMap.cs CustomNoHeaderMap.cs StringExtensions.cs)",
+      "Bash(mkdir -p Configuration Reading Writing Results Extensions)"
+    ]
+  }
+}
